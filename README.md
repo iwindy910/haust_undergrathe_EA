@@ -12,6 +12,8 @@ https://github.com/TASER2023/TASER
 
 https://github.com/ming024/FastSpeech2
 
+https://github.com/FunAudioLLM/SenseVoice
+
 # Citation
 
 ```
@@ -24,4 +26,6 @@ Cheng P, Wang Y, Huang P, et al. ALIF: Low-cost adversarial audio attacks on bla
 Tran B, Xue B, Zhang M. Variable-length particle swarm optimization for feature selection on high-dimensional classification[J]. IEEE Transactions on Evolutionary Computation, 2018, 23(3): 473-487.
 
 Ren Y, Hu C, Tan X, et al. Fastspeech 2: Fast and high-quality end-to-end text to speech[J]. arXiv preprint arXiv:2006.04558, 2020.
+
+An K, Chen Q, Deng C, et al. Funaudiollm: Voice understanding and generation foundation models for natural interaction between humans and llms[J]. arXiv preprint arXiv:2407.04051, 2024.
 ```
