@@ -8,7 +8,9 @@ https://github.com/WUSTL-CSPL/SMACK
 
 https://github.com/b04901014/FG-transformer-TTS
 
-https://github.com/TASER2023/TASER
+[https://github.com/TASER2023/TASER](https://github.com/TASER2023/TASER)
+
+https://github.com/ming024/FastSpeech2
 
 # Citation
 
@@ -20,4 +22,6 @@ Chen L W, Rudnicky A. Fine-grained style control in transformer-based text-to-sp
 Cheng P, Wang Y, Huang P, et al. ALIF: Low-cost adversarial audio attacks on black-box speech platforms using linguistic features[C]//2024 IEEE Symposium on Security and Privacy (SP). IEEE, 2024: 1628-1645.
 
 Tran B, Xue B, Zhang M. Variable-length particle swarm optimization for feature selection on high-dimensional classification[J]. IEEE Transactions on Evolutionary Computation, 2018, 23(3): 473-487.
+
+Ren Y, Hu C, Tan X, et al. Fastspeech 2: Fast and high-quality end-to-end text to speech[J]. arXiv preprint arXiv:2006.04558, 2020.
 ```
