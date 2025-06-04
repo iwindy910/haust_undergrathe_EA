@@ -8,7 +8,7 @@ https://github.com/WUSTL-CSPL/SMACK
 
 https://github.com/b04901014/FG-transformer-TTS
 
-[https://github.com/TASER2023/TASER](https://github.com/TASER2023/TASER)
+https://github.com/TASER2023/TASER
 
 https://github.com/ming024/FastSpeech2
 
